@@ -2,8 +2,8 @@
 ## functions do
 
 ## makeCacheMatrix takes as an argument a matrix
-## it proceeds to calculate and a set of data
-## describing that matrix
+## it proceeds to create a matrix object containing data that
+## describies the given matrix
 
 makeCacheMatrix <- function(x = matrix()) {
   m <- NULL
